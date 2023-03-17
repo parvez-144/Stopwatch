@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(68, 239, 239);
+}
+h1{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 3rem;
+    padding-left: 30px;
+}
+.timedisplay{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 4rem;
+}
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+.start{
+   margin-right: 5%;
+}
+.stop{
+    margin-right: 5%;
+}
+.btn{
+    width: 15%;
+    font-size: 25px;
+}
